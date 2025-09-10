@@ -5,6 +5,9 @@
     },
     "red": {
       "Mode 1": "#813C3C"
+    },
+    "yellow": {
+      "Mode 1": "#fafafa"
     }
   },
   "BU": {
@@ -28,7 +31,7 @@
       "Mode 1": 44
     },
     "buttonFill": {
-      "Mode 1": "red"
+      "Mode 1": "yellow"
     }
   }
 }
