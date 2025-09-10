@@ -4,7 +4,7 @@
   },
   "background": {
     "theme": "white",
-    "theme-dark": "#000000"
+    "theme-dark": "white"
   },
   "page": {
     "theme": "background",
