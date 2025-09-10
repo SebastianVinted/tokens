@@ -1,16 +1,26 @@
 {
-  "white": {
-    "theme": "#000000"
+  "Global": {
+    "white": {
+      "Mode 1": "#000000"
+    },
+    "red": {
+      "Mode 1": "#fafafa"
+    }
   },
-  "red": {
-    "theme": "#fafafa"
+  "BU": {
+    "background": {
+      "Marketplace": "white",
+      "GO": "red"
+    }
   },
-  "background": {
-    "theme-marketplace": "white",
-    "theme-go": "red"
-  },
-  "page": {
-    "theme": "background",
-    "theme-dark": "background"
+  "Alias": {
+    "page": {
+      "light": "background",
+      "Dark": "background"
+    },
+    "container": {
+      "light": "#ffffff",
+      "Dark": "#333333"
+    }
   }
 }
