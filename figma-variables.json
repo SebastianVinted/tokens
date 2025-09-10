@@ -6,8 +6,8 @@
     "theme": "#fafafa"
   },
   "background": {
-    "theme": "white",
-    "theme-dark": "red"
+    "theme-marketplace": "red",
+    "theme-go": "red"
   },
   "page": {
     "theme": "background",
