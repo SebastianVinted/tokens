@@ -22,5 +22,13 @@
       "light": "#ffffff",
       "Dark": "#333333"
     }
+  },
+  "Component": {
+    "buttonHeight": {
+      "Mode 1": 44
+    },
+    "buttonFill": {
+      "Mode 1": "red"
+    }
   }
 }
