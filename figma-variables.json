@@ -1,0 +1,22 @@
+{
+  "white": {
+    "theme": "#FFFFFF"
+  },
+  "background": {
+    "theme": {
+      "type": "VARIABLE_ALIAS",
+      "id": "VariableID:1:3"
+    },
+    "theme-dark": "#EDD9D9"
+  },
+  "page": {
+    "theme": {
+      "type": "VARIABLE_ALIAS",
+      "id": "VariableID:1:5"
+    },
+    "theme-dark": {
+      "type": "VARIABLE_ALIAS",
+      "id": "VariableID:1:5"
+    }
+  }
+}
