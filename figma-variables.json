@@ -2,9 +2,12 @@
   "white": {
     "theme": "#000000"
   },
+  "red": {
+    "theme": "#fafafa"
+  },
   "background": {
     "theme": "white",
-    "theme-dark": "white"
+    "theme-dark": "red"
   },
   "page": {
     "theme": "background",
