@@ -3,20 +3,11 @@
     "theme": "#F2F2F2"
   },
   "background": {
-    "theme": {
-      "type": "VARIABLE_ALIAS",
-      "id": "VariableID:1:3"
-    },
+    "theme": "white",
     "theme-dark": "#000000"
   },
   "page": {
-    "theme": {
-      "type": "VARIABLE_ALIAS",
-      "id": "VariableID:1:5"
-    },
-    "theme-dark": {
-      "type": "VARIABLE_ALIAS",
-      "id": "VariableID:1:5"
-    }
+    "theme": "background",
+    "theme-dark": "background"
   }
 }
