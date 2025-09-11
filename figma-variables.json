@@ -10,7 +10,7 @@
       "Mode 1": "#AA9C25"
     },
 
-"size": {
+
 "unit": { "base": 4 },
 "size-100": { "base": 4 },
 "size-150": { "base": 6 },
@@ -29,9 +29,7 @@
 "size-1200": { "base": 48 },
 "size-1600": { "base": 64 },
 "size-2400": { "base": 96 }
-},
-"space": {
-"unit": { "base": 4 },
+
 "space-100": { "base": 4 },
 "space-150": { "base": 6 },
 "space-200": { "base": 8 },
@@ -49,7 +47,6 @@
 "space-1200": { "base": 48 },
 "space-1600": { "base": 64 },
 "space-2400": { "base": 96 }
-}
     
   },
   "BU": {
