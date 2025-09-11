@@ -146,5 +146,10 @@
     "buttonFill": {
       "Mode 1": "page"
     }
+  },
+  "Zilvinas": {
+    "buttonBorderRadius": {
+      "Mode 1": 6
+    },
   }
 }
