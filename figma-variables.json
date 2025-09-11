@@ -28,7 +28,7 @@
 "size-1100": { "base": 44 },
 "size-1200": { "base": 48 },
 "size-1600": { "base": 64 },
-"size-2400": { "base": 96 }
+"size-2400": { "base": 96 },
 
 "space-100": { "base": 4 },
 "space-150": { "base": 6 },
