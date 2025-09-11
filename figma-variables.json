@@ -15,7 +15,7 @@
       }
     },
     "yellow": {
-      "Mode 1": "#AA9C25"
+      "Mode 1": "#FFE717"
     },
     "unit": {
       "base": 4
@@ -125,7 +125,7 @@
   },
   "BU": {
     "background": {
-      "Marketplace": "red-300",
+      "Marketplace": "yellow",
       "GO": "red-100"
     }
   },
@@ -144,7 +144,7 @@
       "Mode 1": 44
     },
     "buttonFill": {
-      "Mode 1": "background"
+      "Mode 1": "page"
     }
   }
 }
