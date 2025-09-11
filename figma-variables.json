@@ -4,8 +4,14 @@
       "Mode 1": "brown"
     },
     "red": {
+          "red-100": {
       "Mode 1": "#813C3C"
     },
+                "red-200": {
+      "Mode 1": "#813C3C"
+    },
+    },
+
     "yellow": {
       "Mode 1": "#AA9C25"
     },
