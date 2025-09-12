@@ -1,8 +1,85 @@
 {
-  "Global": {
-    "brown": {
-      "light": "#000000",
-      "Dark": "#ffffff"
+  "spacing": {
+    "none": {
+      "value": "0"
+    },
+    "x-small": {
+      "value": "2"
+    },
+    "small": {
+      "value": "4"
+    },
+    "regular": {
+      "value": "8"
+    },
+    "medium": {
+      "value": "12"
+    },
+    "large": {
+      "value": "16"
+    },
+    "larger": {
+      "value": "20"
+    },
+    "x-large": {
+      "value": "24"
+    },
+    "x-larger": {
+      "value": "28"
+    },
+    "x2-large": {
+      "value": "32"
+    },
+    "x3-large": {
+      "value": "48"
+    },
+    "x4-large": {
+      "value": "64"
+    },
+    "x5-large": {
+      "value": "96"
+    },
+    "x6-large": {
+      "value": "128"
+    },
+    "space-50": {
+      "value": "2"
+    },
+    "space-100": {
+      "value": "4"
+    },
+    "space-200": {
+      "value": "8"
+    },
+    "space-300": {
+      "value": "12"
+    },
+    "space-400": {
+      "value": "16"
+    },
+    "space-500": {
+      "value": "20"
+    },
+    "space-600": {
+      "value": "24"
+    },
+    "space-700": {
+      "value": "28"
+    },
+    "space-800": {
+      "value": "32"
+    },
+    "space-1200": {
+      "value": "48"
+    },
+    "space-1600": {
+      "value": "64"
+    },
+    "space-2400": {
+      "value": "96"
+    },
+    "space-3200": {
+      "value": "128"
     }
   }
 }
